@@ -13,6 +13,6 @@
 - Javascript
 - HTML
 - CSS
-- C/C++, Linux, Perl, Bash, Python, Erlang
+- C/C++, Linux, Perl, Bash, Python
 
 
