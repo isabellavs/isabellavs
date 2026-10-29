@@ -4,14 +4,13 @@ I've spent thirty years keeping mission-critical systems running, and my career 
 
 ### 🛠️ What I work on
 
-- ☁️ **Multi-account AWS estates** on EKS and ECS, including multi-tenant clusters with strict separation between clients
-- 🔁 **GitOps and CI/CD** with ArgoCD, CodePipeline and CodeBuild, from commit to running container
-- 🔐 **Security by default**: least-privilege IAM, recurring security reviews and penetration testing
-- 📋 **Compliance that passes audit**: ISO 27001, POPIA and GDPR, with the governance documentation to back it up
-- 💸 **Cost as an engineering discipline**: right-sizing against real usage data, not a once-a-year clean-up
-- 🤖 **AI-assisted engineering**: I use AI every day, and its output gets verified before it ships
+- **Multi-account AWS estates** on EKS and ECS, including multi-tenant clusters with strict separation between clients
+- **GitOps and CI/CD** with ArgoCD, CodePipeline and CodeBuild, from commit to running container
+- **Security by default**: least-privilege IAM, recurring security reviews and penetration testing
+- **Compliance that passes audit**: ISO 27001, POPIA and GDPR, with the governance documentation to back it up
+- **Cost as an engineering discipline**: right-sizing against real usage data, not a once-a-year clean-up
+- **AI-assisted engineering**: I use AI every day, and its output gets verified before it ships
 
-### 🧰 Toolbox
 
 <p>
   <picture><source media="(prefers-color-scheme: dark)" srcset="icons/white/amazonwebservices.svg" /><img src="icons/amazonwebservices.svg" alt="AWS" title="AWS" height="40" /></picture>&nbsp;&nbsp;
