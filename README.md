@@ -12,6 +12,7 @@ I've spent thirty years keeping mission-critical systems running, and my career 
 - **AI-assisted engineering**: I use AI every day, and its output gets verified before it ships
 
 
+
 <p>
   <picture><source media="(prefers-color-scheme: dark)" srcset="icons/white/amazonwebservices.svg" /><img src="icons/amazonwebservices.svg" alt="AWS" title="AWS" height="40" /></picture>&nbsp;&nbsp;
   <picture><source media="(prefers-color-scheme: dark)" srcset="icons/white/kubernetes.svg" /><img src="icons/kubernetes.svg" alt="Kubernetes" title="Kubernetes" height="40" /></picture>&nbsp;&nbsp;
