@@ -66,6 +66,6 @@ I've spent thirty years keeping mission-critical systems running, and my career 
 | 🔐 **Security & compliance** | Security reviews, penetration testing, least-privilege IAM, ISO 27001, POPIA, GDPR |
 | 📈 **Observability** | CloudWatch, Prometheus, Grafana, CloudTrail, Cost & Usage Report |
 | 🐧 **Systems & networking** | Linux and Unix (Solaris, and OpenVMS once upon a time), DNS, TLS, networking, Bash |
-| 🗄️ **Databases** | PostgreSQL, MySQL, Oracle, Ingres, Informix, Sybase · Prisma, TypeORM, SQLAlchemy |
+| 🗄️ **Databases & ORMs** | PostgreSQL, MySQL, Oracle, Ingres, Informix, Sybase · Prisma, TypeORM, SQLAlchemy |
 | 💻 **Languages & backend** | TypeScript (NestJS, Next.js), Python (FastAPI), C/C++, PL/SQL, Perl, Bash · REST/OpenAPI |
 | 🤖 **AI tools** | Claude, GitHub Copilot |
