@@ -20,6 +20,7 @@ I've spent thirty years keeping mission-critical systems running, and my career 
   <picture><source media="(prefers-color-scheme: dark)" srcset="icons/white/argocd.svg" /><img src="icons/argocd.svg" alt="Argo CD" title="Argo CD" height="40" /></picture>&nbsp;&nbsp;
   <picture><source media="(prefers-color-scheme: dark)" srcset="icons/white/git.svg" /><img src="icons/git.svg" alt="Git" title="Git" height="40" /></picture>&nbsp;&nbsp;
   <picture><source media="(prefers-color-scheme: dark)" srcset="icons/white/github.svg" /><img src="icons/github.svg" alt="GitHub" title="GitHub" height="40" /></picture>&nbsp;&nbsp;
+  <picture><source media="(prefers-color-scheme: dark)" srcset="icons/white/jira.svg" /><img src="icons/jira.svg" alt="Jira" title="Jira" height="40" /></picture>&nbsp;&nbsp;
 </p>
 
 <p>
