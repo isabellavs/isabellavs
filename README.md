@@ -1,4 +1,4 @@
-# Platform, Infrastructure and Backend Engineer
+# Platform, Infrastructure & Backend Engineer
 
 **Platform & infrastructure engineer** · AWS · Kubernetes · regulated environments
 📍 Pretoria, South Africa 🇿🇦
