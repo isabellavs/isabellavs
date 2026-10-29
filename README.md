@@ -16,9 +16,49 @@ I've spent thirty years keeping mission-critical systems running, and my career 
 
 ### 🧰 Toolbox
 
-[![Cloud and infrastructure: AWS, Kubernetes, Docker, Linux, Bash, Git, GitHub](https://skillicons.dev/icons?i=aws,kubernetes,docker,linux,bash,git,github&perline=7)](https://skillicons.dev)
-[![Observability and data: Prometheus, Grafana, PostgreSQL, MySQL, Redis, Prisma](https://skillicons.dev/icons?i=prometheus,grafana,postgres,mysql,redis,prisma&perline=7)](https://skillicons.dev)
-[![Languages and frameworks: TypeScript, Node.js, NestJS, Next.js, Python, FastAPI, C, C++, Perl](https://skillicons.dev/icons?i=ts,nodejs,nestjs,nextjs,py,fastapi,c,cpp,perl&perline=9)](https://skillicons.dev)
+<p>
+  <img src="icons/amazonwebservices.svg" alt="AWS" title="AWS" height="40" />&nbsp;&nbsp;
+  <img src="icons/kubernetes.svg" alt="Kubernetes" title="Kubernetes" height="40" />&nbsp;&nbsp;
+  <img src="icons/docker.svg" alt="Docker" title="Docker" height="40" />&nbsp;&nbsp;
+  <img src="icons/argocd.svg" alt="Argo CD" title="Argo CD" height="40" />&nbsp;&nbsp;
+  <img src="icons/git.svg" alt="Git" title="Git" height="40" />&nbsp;&nbsp;
+  <img src="icons/github.svg" alt="GitHub" title="GitHub" height="40" />&nbsp;&nbsp;
+</p>
+
+<p>
+  <img src="icons/prometheus.svg" alt="Prometheus" title="Prometheus" height="40" />&nbsp;&nbsp;
+  <img src="icons/grafana.svg" alt="Grafana" title="Grafana" height="40" />&nbsp;&nbsp;
+  <img src="icons/linux.svg" alt="Linux" title="Linux" height="40" />&nbsp;&nbsp;
+  <img src="icons/bash.svg" alt="Bash" title="Bash" height="40" />&nbsp;&nbsp;
+</p>
+
+<p>
+  <img src="icons/postgresql.svg" alt="PostgreSQL" title="PostgreSQL" height="40" />&nbsp;&nbsp;
+  <img src="icons/mysql.svg" alt="MySQL" title="MySQL" height="40" />&nbsp;&nbsp;
+  <img src="icons/oracle.svg" alt="Oracle" title="Oracle" height="40" />&nbsp;&nbsp;
+  <img src="icons/redis.svg" alt="Redis" title="Redis" height="40" />&nbsp;&nbsp;
+  <img src="icons/prisma.svg" alt="Prisma" title="Prisma" height="40" />&nbsp;&nbsp;
+  <img src="icons/typeorm.svg" alt="TypeORM" title="TypeORM" height="40" />&nbsp;&nbsp;
+  <img src="icons/sqlalchemy.svg" alt="SQLAlchemy" title="SQLAlchemy" height="40" />&nbsp;&nbsp;
+</p>
+
+<p>
+  <img src="icons/typescript.svg" alt="TypeScript" title="TypeScript" height="40" />&nbsp;&nbsp;
+  <img src="icons/nodejs.svg" alt="Node.js" title="Node.js" height="40" />&nbsp;&nbsp;
+  <img src="icons/nestjs.svg" alt="NestJS" title="NestJS" height="40" />&nbsp;&nbsp;
+  <img src="icons/nextjs.svg" alt="Next.js" title="Next.js" height="40" />&nbsp;&nbsp;
+  <img src="icons/python.svg" alt="Python" title="Python" height="40" />&nbsp;&nbsp;
+  <img src="icons/fastapi.svg" alt="FastAPI" title="FastAPI" height="40" />&nbsp;&nbsp;
+  <img src="icons/c.svg" alt="C" title="C" height="40" />&nbsp;&nbsp;
+  <img src="icons/cplusplus.svg" alt="C++" title="C++" height="40" />&nbsp;&nbsp;
+  <img src="icons/perl.svg" alt="Perl" title="Perl" height="40" />&nbsp;&nbsp;
+  <img src="icons/openapi.svg" alt="OpenAPI" title="OpenAPI" height="40" />&nbsp;&nbsp;
+</p>
+
+<p>
+  <img src="icons/claude.svg" alt="Claude" title="Claude" height="40" />&nbsp;&nbsp;
+  <img src="icons/githubcopilot.svg" alt="GitHub Copilot" title="GitHub Copilot" height="40" />&nbsp;&nbsp;
+</p>
 
 | | |
 |---|---|
