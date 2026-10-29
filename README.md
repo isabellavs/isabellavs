@@ -58,7 +58,7 @@ I've spent thirty years keeping mission-critical systems running, and my career 
   <picture><source media="(prefers-color-scheme: dark)" srcset="icons/white/githubcopilot.svg" /><img src="icons/githubcopilot.svg" alt="GitHub Copilot" title="GitHub Copilot" height="40" /></picture>&nbsp;&nbsp;
 </p>
 
-| | |
+| Area | Skills & tools |
 |---|---|
 | **AWS** | EKS, ECS, EC2, ECR, RDS (PostgreSQL), S3, IAM, Route 53, ACM, SES, SQS, CloudFront, API Gateway, ElastiCache/Redis |
 | **Containers** | EKS and ECS in production, multi-tenant cluster operation, resource limits and right-sizing, Docker |
