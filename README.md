@@ -1,4 +1,4 @@
-# Hi, I'm Isabella 👋
+# Platform, Infrastructure and Backend Engineer
 
 **Platform & infrastructure engineer** · AWS · Kubernetes · regulated environments
 📍 Pretoria, South Africa 🇿🇦
