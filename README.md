@@ -62,7 +62,7 @@ I've spent thirty years keeping mission-critical systems running, and my career 
 |---|---|
 | ☁️ **AWS** | EKS, ECS, EC2, ECR, RDS (PostgreSQL), S3, IAM, Route 53, ACM, SES, SQS, CloudFront, API Gateway, ElastiCache/Redis |
 | 📦 **Containers** | EKS and ECS in production, multi-tenant cluster operation, resource limits and right-sizing, Docker |
-| 🚀 **CI/CD** | ArgoCD (pull-based GitOps), CodePipeline, CodeBuild, ECR image tagging and promotion, Slack release notifications |
+| 🚀 **CI/CD** | ArgoCD (pull-based GitOps), CodePipeline, CodeBuild, ECR image tagging and promotion, Slack release notifications, Jira |
 | 🔐 **Security & compliance** | Security reviews, penetration testing, least-privilege IAM, ISO 27001, POPIA, GDPR |
 | 📈 **Observability** | CloudWatch, Prometheus, Grafana, CloudTrail, Cost & Usage Report |
 | 🐧 **Systems & networking** | Linux and Unix (Solaris, and OpenVMS once upon a time), DNS, TLS, networking, Bash |
