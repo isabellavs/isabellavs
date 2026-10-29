@@ -1,6 +1,6 @@
 # Platform, Infrastructure & Backend Engineer
 
-**Platform & infrastructure engineer** · AWS · Kubernetes · regulated environments
+**Builder and Developer**
 📍 Pretoria, South Africa 🇿🇦
 
 I've spent thirty years keeping mission-critical systems running, and my career runs from C on Solaris to Kubernetes on AWS. These days I build and run multi-account AWS platforms on EKS and ECS for clients who need ISO 27001, POPIA and GDPR. I'm happiest in hands-on work that spans backend services and the infrastructure underneath them.
