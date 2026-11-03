@@ -67,5 +67,6 @@ I've spent thirty years keeping mission-critical systems running, and my career 
 | **Observability** | CloudWatch, Prometheus, Grafana, CloudTrail, Cost & Usage Report |
 | **Systems & networking** | Linux and Unix (Solaris, and OpenVMS once upon a time), DNS, TLS, networking, Bash |
 | **Databases & ORMs** | PostgreSQL, MySQL, Oracle, Ingres, Informix, Sybase · Prisma, TypeORM, SQLAlchemy |
-| **Languages & backend** | TypeScript (NestJS, Next.js), Python (FastAPI), C/C++, PL/SQL, Perl, Bash · REST/OpenAPI |
+| **Languages & backend** | TypeScript, Python, C/C++, PL/SQL, Perl, Bash · REST/OpenAPI |
+| **Frameworks** | FastApi, NestJS, Flask, NextJS |
 | **AI tools** | Claude, GitHub Copilot |
